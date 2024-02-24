@@ -18,7 +18,7 @@ Follow these steps to set up and run the Video Player App on your local machine:
 
 1. **Clone Repository**: 
     ```bash
-    git clone https://github.com/your_username/video_player_app.git
+    git clone https://github.com/zahidprvz/video_player_app.git
     ```
 
 2. **Navigate to Project Directory**:
